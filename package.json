@@ -1,25 +1,26 @@
 {
   "name": "symon-js-footer",
   "version": "0.1.0",
-  "description": "This module allows for a dynamic footer to be generated for JS applications with an updatedyear and name.",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/symoncapel/Symon-js-footer.git"
+    "url": "git+https://github.com/symoncapel/symon-js-footer.git"
   },
   "keywords": [
-    "footer",
-    "JS"
+    "JS",
+    "JavaScript",
+    "footer"
   ],
-  "author": "Symon Capel <symon.capel@gmail.com> (https://www.npmjs.com/~symon_capel)",
+  "author": "Symon Capel <symon.capel@gmail.com> (http://www.https//www.npmjs.com/~symon_capel.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/symoncapel/Symon-js-footer/issues"
+    "url": "https://github.com/symoncapel/symon-js-footer/issues"
   },
-  "homepage": "https://github.com/symoncapel/Symon-js-footer#readme",
+  "homepage": "https://github.com/symoncapel/symon-js-footer#readme",
   "dependencies": {
     "moment": "^2.29.4"
   }
